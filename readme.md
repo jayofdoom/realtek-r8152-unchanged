@@ -34,6 +34,7 @@ As retrieved from the above website in Sept 2024:
 | v2.16.3 | 664b76b2ac5652779f6865ac7b2917b2ab1f22d1e57decc8e2eeb928e8a68509 | r8152-2.16.3.tar.bz2 |
 | v2.17.1 | 8628ae87d98a8a2e52f6cb3bb28931aa4b12beeeb5614c30698c9d14fed5bb6f | r8152-2.17.1.tar.bz2 |
 | v2.18.1 | 142b12ce8a4795790e16ac5dce097448d78692aad235af37ddfd1e343c39b0bc | r8152-2.18.1.tar.bz2 |
+| v2.19.2 | 104a3abbd3d16287b5a83b532a4f08a81bbd62b8804df7b11d6b9e750e7cae14 | r8152-2.19.2.tar.bz2 |
 
 
 ## Who are you and why are you doing this?
@@ -43,3 +44,10 @@ I could patch separately, in the ebuild. If you want to use this on a modern
 kernel, you can fetch those patches directly from the gentoo repository:
 https://gitweb.gentoo.org/repo/gentoo.git/tree/net-misc/r8152 -- look in the
 files directory for the patches, and the versioned-ebuild for the order.
+
+
+## Why do the version numbers have gaps?
+
+I don't know. I check for updates periodically, and often the versions are
+higher. As far as I can tell, there's no log of all releases made so I just
+archive what I need to pacakge in Gentoo.
