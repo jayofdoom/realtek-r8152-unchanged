@@ -16,11 +16,12 @@ driver is usually identified by "Realtek USB FE / GBE / 2.5G / 5G Ethernet".
 
 ## What cards does this support?
 
-As retrieved from the above website in Sept 2024:
+As retrieved from the above website in June 2025:
 
 | Name | USB version | Chipsets |
 | ---- | ----------- | -------- |
-| 5G Gigabit Ethernet | USB 3.0 | *RTL8157* |
+|  10G Gigabit Ethernet | USB 3.0 | *RTL8159* |
+|   5G Gigabit Ethernet | USB 3.0 | *RTL8157* |
 | 2.5G Gigabit Ethernet | USB 3.0 | *RTL8156*, *RTL8156B* |
 | 10/100/1000M Gigabit Ethernet | USB 3.0 | *RTL8153*, *RTL8153B*, *RTL8153C*, *RTL8153D*, *RTL8153E* |
 | 10/100/1000M Gigabit Ethernet | USB 2.0 | *RTL8154*, *RTL8154B* |
@@ -35,7 +36,7 @@ As retrieved from the above website in Sept 2024:
 | v2.17.1 | 8628ae87d98a8a2e52f6cb3bb28931aa4b12beeeb5614c30698c9d14fed5bb6f | r8152-2.17.1.tar.bz2 |
 | v2.18.1 | 142b12ce8a4795790e16ac5dce097448d78692aad235af37ddfd1e343c39b0bc | r8152-2.18.1.tar.bz2 |
 | v2.19.2 | 104a3abbd3d16287b5a83b532a4f08a81bbd62b8804df7b11d6b9e750e7cae14 | r8152-2.19.2.tar.bz2 |
-
+| v2.20.1 | f092ebf88850b9bf61065889623d0670fa5a0bf1bdcd80e26949560cbf51c94d | r8152-2.20.1.tar.bz2 |
 
 ## Who are you and why are you doing this?
 
