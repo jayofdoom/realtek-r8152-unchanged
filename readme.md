@@ -51,4 +51,4 @@ files directory for the patches, and the versioned-ebuild for the order.
 
 I don't know. I check for updates periodically, and often the versions are
 higher. As far as I can tell, there's no log of all releases made so I just
-archive what I need to pacakge in Gentoo.
+archive what I need to package in Gentoo.
